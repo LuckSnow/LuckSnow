@@ -95,7 +95,37 @@ fun_fact: >
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/n.snow1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu%E1%BA%A5n-nguy%E1%BB%85n-95a707388/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucksnow1108@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/lucksnow1108)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/luck12)
+[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/TUNNGUYN340214)
 
+</div>
+
+---
+
+<!-- ===== COMPETITIVE PROGRAMMING ===== -->
+<h2 align="center">⚔️ Competitive Programming</h2>
+
+<div align="center">
+  <a href="https://leetcode.com/u/lucksnow1108">
+    <img src="https://leetcard.jacoblin.cool/lucksnow1108?theme=dark&font=Fira%20Code&ext=heatmap" width="60%" alt="LeetCode Stats"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://codeforces.com/profile/luck12">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=luck12&theme=github_dark&disable_animations=false&show_icons=true" width="48%" alt="Codeforces Stats"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.duolingo.com/profile/TUNNGUYN340214">
+    <img src="https://duolingo-stats-card.vercel.app/api?username=TUNNGUYN340214&theme=dark" width="48%" alt="Duolingo Stats"/>
+  </a>
 </div>
 
 ---
