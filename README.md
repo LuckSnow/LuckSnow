@@ -1,176 +1,284 @@
-<!-- Header Banner -->
+<!-- ===== ANIMATED HEADER ===== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a73e8,100:00d4ff&height=220&section=header&text=Hello%20👋%20I'm%20LuckSnow&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Tuấn%20Nguyễn%20|%20Frontend%20Developer&descSize=18&descAlignY=55&descColor=cccccc&animation=fadeIn" alt="Header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6e96,50:a855f7,100:06b6d4&height=250&section=header&text=LuckSnow&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&stroke=ffffff&strokeWidth=1" alt="Header"/>
+</div>
+
+<div align="center">
+  <h3>✨ Tuấn Nguyễn • Full-stack Developer • Vietnam 🇻🇳 ✨</h3>
+</div>
+
+<!-- Typing animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%A5+Passionate+about+building+web+apps;%F0%9F%9A%80+Django+%7C+Laravel+%7C+Node.js+%7C+Full-stack;%F0%9F%8E%AF+Aspiring+Bridge+System+Engineer+(BrSE)" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Snake animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuckSnow/LuckSnow/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuckSnow/LuckSnow/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/LuckSnow/LuckSnow/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
 
-<!-- About Me -->
-<h2 align="center">🧑 About Me</h2>
+<!-- ===== ABOUT ME ===== -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  About Me
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
 <div align="center">
+<table border="0">
+<tr>
+<td width="50%" valign="top">
 
-🧑 **Name:** Tuấn Nguyễn (Thái Tuấn)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
-🎓 **Focus:** Full-stack Web Development
+</td>
+<td width="50%" valign="top">
 
-🎯 **Target:** Bridge System Engineer (BrSE) 
+<br/>
 
-🌐 **Languages:** Vietnamese (Native) | English
+🧑 **Name:** `Tuấn Nguyễn (Thái Tuấn)`
 
-💻 **Current Path:** Backend Development with Python & Django
+📍 **Location:** `Vietnam 🇻🇳`
 
-🧠 **Fun fact:** I prefer understanding things deeply rather than learning fast but shallow 🚀
+🎓 **Focus:** `Full-stack Web Development`
 
+🎯 **Target:** `Bridge System Engineer (BrSE)`
+
+🌐 **Languages:** `Vietnamese (Native) | English`
+
+💻 **Current Path:** `Backend Dev — Python & Django`
+
+🧠 **Fun fact:** `I prefer understanding deeply rather than learning fast but shallow` 🚀
+
+</td>
+</tr>
+</table>
+</div>
+
+<!-- ===== PORTFOLIO ===== -->
+<h2 align="center">🌐 My Portfolio</h2>
+
+<div align="center">
+  <a href="https://lucksnow.github.io">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-lucksnow.github.io-ff6e96?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://lucksnow.github.io">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=LuckSnow&data=followers,repositories,stars,commits&theme=nightowl" alt="GitHub WidgetBox" width="80%"/>
+  </a>
 </div>
 
 ---
 
-<!-- Socials -->
-<h2 align="center">🌐 Connect with me</h2>
+<!-- ===== CONNECT ===== -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
+  Connect with me
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
+</h2>
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff6e96?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lucksnow.github.io)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/thai.tuan.445313/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/n.snow1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu%E1%BA%A5n-nguy%E1%BB%85n-95a707388/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucksnow1108@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucksnow1108@gmail.com)
 
 </div>
 
 ---
 
-<!-- GitHub Contributions -->
-<h2 align="center">📊 GitHub Contributions</h2>
+<!-- ===== TECH STACK ===== -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+  Tech Arsenal
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+</h2>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuckSnow&theme=github_dark" width="95%" alt="Profile Details"/>
-</div>
-
+<details open>
+<summary><b>🌐 Web & Backend</b></summary>
 <br/>
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuckSnow&theme=github_dark" width="32%" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuckSnow&theme=github_dark" width="32%" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuckSnow&theme=github_dark" width="32%" alt="Top Languages by Commit"/>
-</div>
 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
 <br/>
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuckSnow&theme=github_dark&utcOffset=7" width="32%" alt="Commits"/>
-  <img src="https://streak-stats.demolab.com?user=LuckSnow&theme=github-dark-blue&hide_border=true" width="48%" alt="GitHub Streak"/>
-</div>
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>⚙️ Languages</b></summary>
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuckSnow&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
-</div>
-
----
-
-<!-- Tech Stack -->
-<h2 align="center">💻 My Technology Stack</h2>
-
-<h3 align="center">🌐 Web & Backend Development</h3>
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 </div>
+</details>
 
-<h3 align="center">🎨 Frontend Development</h3>
-
+<details open>
+<summary><b>🗄️ Database & Servers</b></summary>
+<br/>
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 
 </div>
+</details>
 
-<h3 align="center">⚙️ Programming Languages</h3>
-
+<details open>
+<summary><b>🎨 Design & Creative</b></summary>
+<br/>
 <div align="center">
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-</div>
-
-<h3 align="center">🗄️ Databases & Servers</h3>
-
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-</div>
-
-<h3 align="center">🎨 Design & Creative Tools</h3>
-
-<div align="center">
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 </div>
+</details>
 
-<h3 align="center">🛠️ Tools & Others</h3>
+<details open>
+<summary><b>🛠️ Tools</b></summary>
+<br/>
+<div align="center">
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+</div>
+</details>
+
+---
+
+<!-- ===== GITHUB STATS ===== -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
+  GitHub Stats
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
+</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuckSnow&theme=radical" width="95%" alt="Profile Details"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuckSnow&theme=radical" width="32%" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuckSnow&theme=radical" width="32%" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuckSnow&theme=radical" width="32%" alt="Top Languages by Commit"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuckSnow&theme=radical&utcOffset=7" width="32%" alt="Commits"/>
+  <img src="https://streak-stats.demolab.com?user=LuckSnow&theme=radical&hide_border=true&border_radius=10" width="48%" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuckSnow&theme=rogue&hide_border=true&area=true&custom_title=🔥%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+</div>
+
+---
+
+<!-- ===== TROPHIES ===== -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LuckSnow&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="95%" alt="Trophies"/>
+</div>
+
+---
+
+<!-- ===== WHAT I'M UP TO ===== -->
+<h2 align="center">⚡ What I'm Currently Up To</h2>
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+```text
+🔭 Working on      →  Django web apps & Admin dashboards
+🌱 Learning        →  Advanced Django • PostgreSQL • DB Architecture
+🤝 Collaborating   →  Student web projects & Open-source
+🎯 Goal 2026       →  Become a Bridge System Engineer (BrSE)
+💡 Interests       →  Clean code • Scalable systems • Deep learning
+```
 
 </div>
 
 ---
 
-<!-- What I'm up to -->
-<h2 align="center">🔥 What I'm Currently Up To</h2>
+<!-- ===== RANDOM DEV QUOTE ===== -->
+<h2 align="center">💭 Dev Quote</h2>
 
 <div align="center">
-
-| 🔭 Working on | 🌱 Learning | 🤝 Looking to collaborate |
-|:---:|:---:|:---:|
-| Django web apps | Advanced Django | Student web projects |
-| Admin dashboards | PostgreSQL & DB architecture | Backend/full-stack apps |
-| Backend logic & DB handling | Real-world backend workflows | Open-source projects |
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="70%"/>
 </div>
 
 ---
 
-<!-- Footer -->
+<!-- ===== FOOTER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a73e8,100:00d4ff&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6e96,50:a855f7,100:06b6d4&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=ffffff&fontAlignY=75&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=LuckSnow&icon=6&color=1)](https://visitcount.itsvg.in)
+  <img src="https://komarev.com/ghpvc/?username=LuckSnow&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  
+  <br/><br/>
+  
+  **If you like my work, consider giving a ⭐!**
 
 </div>
