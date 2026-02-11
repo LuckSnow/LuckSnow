@@ -1,16 +1,16 @@
 <!-- ===== ANIMATED HEADER ===== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6e96,50:a855f7,100:06b6d4&height=250&section=header&text=LuckSnow&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&stroke=ffffff&strokeWidth=1" alt="Header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a0a0a,50:8b0000,75:1a0a0a,100:0d1117&height=250&section=header&text=LuckSnow&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&stroke=991111&strokeWidth=1" alt="Header"/>
 </div>
 
 <div align="center">
-  <h3>✨ Tuấn Nguyễn • Full-stack Developer • Vietnam 🇻🇳 ✨</h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25"/> Tuấn Nguyễn • Full-stack Developer • Vietnam 🇻🇳 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25"/></h3>
 </div>
 
 <!-- Typing animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%F0%9F%94%A5+Passionate+about+building+web+apps;%F0%9F%9A%80+Django+%7C+Laravel+%7C+Node.js+%7C+Full-stack;%F0%9F%8E%AF+Aspiring+Bridge+System+Engineer+(BrSE)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=CC3333&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%F0%9F%94%A5+Passionate+about+building+web+apps;%F0%9F%9A%80+Django+%7C+Laravel+%7C+Node.js+%7C+Full-stack;%F0%9F%8E%AF+Aspiring+Bridge+System+Engineer+(BrSE)" alt="Typing SVG" />
   </a>
 </div>
 
@@ -112,14 +112,7 @@ fun_fact: >
 <br/>
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=python,django,flask,php,laravel,nodejs,express&theme=dark" alt="Web & Backend"/></a>
 
 </div>
 </details>
@@ -129,14 +122,7 @@ fun_fact: >
 <br/>
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,jquery,vite&theme=dark" alt="Frontend"/></a>
 
 </div>
 </details>
@@ -146,10 +132,7 @@ fun_fact: >
 <br/>
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,cs,powershell&theme=dark" alt="Languages"/></a>
 
 </div>
 </details>
@@ -159,9 +142,7 @@ fun_fact: >
 <br/>
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,apache&theme=dark" alt="Database & Servers"/></a>
 
 </div>
 </details>
@@ -171,11 +152,7 @@ fun_fact: >
 <br/>
 <div align="center">
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=figma,ai,ae,blender&theme=dark" alt="Design & Creative"/></a>
 
 </div>
 </details>
@@ -185,11 +162,7 @@ fun_fact: >
 <br/>
 <div align="center">
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,unity,opencv&theme=dark" alt="Tools"/></a>
 
 </div>
 </details>
@@ -258,12 +231,12 @@ fun_fact: >
 
 <!-- ===== FOOTER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6e96,50:a855f7,100:06b6d4&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=ffffff&fontAlignY=75&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a0a0a,50:8b0000,75:1a0a0a,100:0d1117&height=150&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=24&fontColor=ffffff&fontAlignY=75&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=LuckSnow&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=LuckSnow&label=Profile%20Views&color=8b0000&style=for-the-badge" alt="Profile Views"/>
   
   <br/><br/>
   
