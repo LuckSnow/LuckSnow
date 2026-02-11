@@ -1,16 +1,12 @@
 <!-- ===== ANIMATED HEADER ===== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6e96,50:a855f7,100:06b6d4&height=250&section=header&text=LuckSnow&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&stroke=ffffff&strokeWidth=1" alt="Header"/>
-</div>
-
-<div align="center">
-  <h3>✨ Tuấn Nguyễn • Full-stack Developer • Vietnam 🇻🇳 ✨</h3>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6e96,50:a855f7,100:06b6d4&height=300&section=header&text=LuckSnow&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✨%20Tuấn%20Nguyễn%20•%20Full-stack%20Developer%20•%20Vietnam%20🇻🇳&descSize=20&descAlignY=60&descColor=ffffff" alt="Header"/>
 </div>
 
 <!-- Typing animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%A5+Passionate+about+building+web+apps;%F0%9F%9A%80+Django+%7C+Laravel+%7C+Node.js+%7C+Full-stack;%F0%9F%8E%AF+Aspiring+Bridge+System+Engineer+(BrSE)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%F0%9F%94%A5+Passionate+about+building+web+apps;%F0%9F%9A%80+Django+%7C+Laravel+%7C+Node.js+%7C+Full-stack;%F0%9F%8E%AF+Aspiring+Bridge+System+Engineer+(BrSE)" alt="Typing SVG" />
   </a>
 </div>
 
@@ -35,30 +31,27 @@
 </h2>
 
 <div align="center">
-<table border="0">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+```yaml
+name: Tuấn Nguyễn (Thái Tuấn)
+located_in: Vietnam 🇻🇳
+focus: Full-stack Web Development
+target: Bridge System Engineer (BrSE)
+languages: [Vietnamese (Native), English]
+current_path: Backend Dev with Python & Django
+
+fun_fact: >
+  I prefer understanding things deeply 
+  rather than learning fast but shallow 🚀
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-<br/>
-
-🧑 **Name:** `Tuấn Nguyễn (Thái Tuấn)`
-
-📍 **Location:** `Vietnam 🇻🇳`
-
-🎓 **Focus:** `Full-stack Web Development`
-
-🎯 **Target:** `Bridge System Engineer (BrSE)`
-
-🌐 **Languages:** `Vietnamese (Native) | English`
-
-💻 **Current Path:** `Backend Dev — Python & Django`
-
-🧠 **Fun fact:** `I prefer understanding deeply rather than learning fast but shallow` 🚀
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
 </td>
 </tr>
@@ -229,15 +222,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuckSnow&theme=rogue&hide_border=true&area=true&custom_title=🔥%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
-</div>
-
----
-
-<!-- ===== TROPHIES ===== -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuckSnow&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="95%" alt="Trophies"/>
 </div>
 
 ---
