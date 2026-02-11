@@ -1,6 +1,10 @@
 <!-- ===== ANIMATED HEADER ===== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6e96,50:a855f7,100:06b6d4&height=300&section=header&text=LuckSnow&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✨%20Tuấn%20Nguyễn%20•%20Full-stack%20Developer%20•%20Vietnam%20🇻🇳&descSize=20&descAlignY=60&descColor=ffffff" alt="Header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6e96,50:a855f7,100:06b6d4&height=250&section=header&text=LuckSnow&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&stroke=ffffff&strokeWidth=1" alt="Header"/>
+</div>
+
+<div align="center">
+  <h3>✨ Tuấn Nguyễn • Full-stack Developer • Vietnam 🇻🇳 ✨</h3>
 </div>
 
 <!-- Typing animation -->
