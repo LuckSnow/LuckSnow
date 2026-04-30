@@ -120,7 +120,7 @@ fun_fact: >
 </div>
 
 <br/>
----
+
 
 <!-- ===== TECH STACK ===== -->
 <h2 align="center">
