@@ -120,13 +120,6 @@ fun_fact: >
 </div>
 
 <br/>
-
-<div align="center">
-  <a href="https://www.duolingo.com/profile/TUNNGUYN340214">
-    <img src="https://duolingo-stats-card.vercel.app/api?username=TUNNGUYN340214&theme=dark" width="48%" alt="Duolingo Stats"/>
-  </a>
-</div>
-
 ---
 
 <!-- ===== TECH STACK ===== -->
