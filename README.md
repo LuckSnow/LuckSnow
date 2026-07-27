@@ -222,33 +222,6 @@ fun_fact: >
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuckSnow&theme=rogue&hide_border=true&area=true&custom_title=🔥%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
 </div>
-
----
-
-<!-- ===== WHAT I'M UP TO ===== -->
-<h2 align="center">⚡ What I'm Currently Up To</h2>
-
-<div align="center">
-
-```text
-🔭 Working on      →  Django web apps & Admin dashboards
-🌱 Learning        →  Advanced Django • PostgreSQL • DB Architecture
-🤝 Collaborating   →  Student web projects & Open-source
-🎯 Goal 2026       →  Become a Bridge System Engineer (BrSE)
-💡 Interests       →  Clean code • Scalable systems • Deep learning
-```
-
-</div>
-
----
-
-<!-- ===== RANDOM DEV QUOTE ===== -->
-<h2 align="center">💭 Dev Quote</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="70%"/>
-</div>
-
 ---
 
 <!-- ===== FOOTER ===== -->
