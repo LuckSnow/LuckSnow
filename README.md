@@ -222,7 +222,7 @@ fun_fact: >
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuckSnow&theme=rogue&hide_border=true&area=true&custom_title=🔥%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
 </div>
----
+
 
 <!-- ===== FOOTER ===== -->
 <div align="center">
